@@ -13,6 +13,7 @@ label{
     background-color: #f5af09;
     position: absolute;
     margin: auto;
+    border-radius: 30px;
     top: 0;
     bottom: 0;
     left: 0;
@@ -22,4 +23,10 @@ label{
     justify-content: center;
     align-items: center ;
     font-family: 'Montserrat', sans-serif;
+}
+label:hover{
+    background-color: #ffba19;
+}
+label:active{
+    background-color: #ffca4f;
 }

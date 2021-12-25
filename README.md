@@ -8,3 +8,5 @@ https://codepen.io/saidahmadli/pen/PoJpJEW tap here for a quick preview of my pr
 https://codepen.io/saidahmadli/pen/MWEmBPM tap here for a quick preview of my project
 ### Border Loading
 https://codepen.io/saidahmadli/pen/PoJJWxb tap here for a quick preview of my project
+### Loading Animation
+https://codepen.io/saidahmadli/pen/BawmraX tap here for a quick preview of my project
